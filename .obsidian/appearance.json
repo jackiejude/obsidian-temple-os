@@ -1,0 +1,11 @@
+{
+  "accentColor": "#0000ff",
+  "theme": "moonstone",
+  "cssTheme": "Retro Windows",
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "baseFontSize": 16
+}
