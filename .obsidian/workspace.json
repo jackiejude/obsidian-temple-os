@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Menu 2.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Menu 2"
+              "title": "README"
             }
           }
         ]
@@ -95,10 +95,11 @@
   },
   "active": "5fce2f583b4a03ac",
   "lastOpenFiles": [
+    "Menu.md",
+    "Menu 2.md",
     "README.md.md",
     "README.md",
-    "Menu 2.md",
-    "Screenshot.png",
+    "Attachments/Screenshot.png",
     "Cards/Template.md",
     "Cards/Titanium.md",
     "Cards/Black Diamond.md",
@@ -106,7 +107,6 @@
     "icons/titanium.png",
     "Cards",
     "icons",
-    "Menu.md",
     "Attachments/TempleOS_logo.png",
     "Attachments/logo.png",
     "Daily/2023-10-30.md",
