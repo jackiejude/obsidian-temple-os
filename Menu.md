@@ -1,17 +1,9 @@
----
-banner: "![[logo.png]]"
-banner_y: 0.39974
----
+<h2 style="text-align: center; color: #0000FF;">TempleOS V1.03</h2>
 
-| [Daily Note](obsidian://advanced-uri?vault=obsidian-temple-os&daily=true) |
-| ------------------------------------------------------------------------- |
+<div style="text-align: center"> <img src="Attachments/logo.png" alt="TempleOS Logo" style="max-width: 50%;"> </div>
 
-## <span style="color:#0000FF">Directory of /Daily:</span>
-
-```dataview
-TABLE file.tags as Tags
-FROM "Daily"
-SORT file DESC
-LIMIT 5
-```
+<h3 style="text-align: center; color: #0000FF;">Public Domain Operating System</h3>
+>[!quote] Quote of the Day
+	> No valid plans for the future can be made by those who have no capacity for living now.
+> &mdash; <cite>Alan Watts</cite>✍️
 
